@@ -511,29 +511,23 @@ Aplicación de laboratorio para administrar integrantes, bailes, presentaciones,
 <details>
 <summary>🟩 Ver capturas de pantalla</summary>
 
-| Captura 1 | Captura 2 | Captura 3 |
-|---|---|---|
-| <img loading="lazy" src="./capturas/captura01.png" width="250"/> | <img loading="lazy" src="./capturas/captura02.png" width="250"/> | <img loading="lazy" src="./capturas/captura03.png" width="250"/> |
-
-| Captura 4 | Captura 5 | Captura 6 |
-|---|---|---|
-| <img loading="lazy" src="./capturas/captura04.png" width="250"/> | <img loading="lazy" src="./capturas/captura05.png" width="250"/> | <img loading="lazy" src="./capturas/captura06.png" width="250"/> |
-
-| Captura 7 | Captura 8 | Captura 9 |
-|---|---|---|
-| <img loading="lazy" src="./capturas/captura07.png" width="250"/> | <img loading="lazy" src="./capturas/captura08.png" width="250"/> | <img loading="lazy" src="./capturas/captura09.png" width="250"/> |
-
-| Captura 10 | Captura 11 | Captura 12 |
-|---|---|---|
-| <img loading="lazy" src="./capturas/captura10.png" width="250"/> | <img loading="lazy" src="./capturas/captura11.png" width="250"/> | <img loading="lazy" src="./capturas/captura12.png" width="250"/> |
-
-| Captura 13 | Captura 14 | Captura 15 |
-|---|---|---|
-| <img loading="lazy" src="./capturas/captura13.png" width="250"/> | <img loading="lazy" src="./capturas/captura14.png" width="250"/> | <img loading="lazy" src="./capturas/captura15.png" width="250"/> |
-
-| Captura 16 | Captura 17 |  |
-|---|---|---|
-| <img loading="lazy" src="./capturas/captura16.png" width="250"/> | <img loading="lazy" src="./capturas/captura17.png" width="250"/> |  |
+<img loading="lazy" src="Captura01.png" width="250"/>
+<img loading="lazy" src="Captura02.png" width="250"/>
+<img loading="lazy" src="Captura03.png" width="250"/>
+<img loading="lazy" src="Captura04.png" width="250"/>
+<img loading="lazy" src="Captura05.png" width="250"/>
+<img loading="lazy" src="Captura06.png" width="250"/>
+<img loading="lazy" src="Captura07.png" width="250"/>
+<img loading="lazy" src="Captura08.png" width="250"/>
+<img loading="lazy" src="Captura09.png" width="250"/>
+<img loading="lazy" src="Captura10.png" width="250"/>
+<img loading="lazy" src="Captura11.png" width="250"/>
+<img loading="lazy" src="Captura12.png" width="250"/>
+<img loading="lazy" src="Captura13.png" width="250"/>
+<img loading="lazy" src="Captura14.png" width="250"/>
+<img loading="lazy" src="Captura15.png" width="250"/>
+<img loading="lazy" src="Captura16.png" width="250"/>
+<img loading="lazy" src="Captura17.png" width="250"/>
 
 </details>
 
