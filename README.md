@@ -477,4 +477,67 @@ Para ingresar al sistema con privilegios totales de administrador y evaluar el f
 🔗 Enlaces
 * **Código Fuente:** [Repositorio Notaría 105](https://github.com/s06008525-max/notaria-105)
 * **Demo en Vivo:** [notaria105](http://roberto.notario@notaria105.com)
-  
+
+
+
+  ## Proyecto 11: Compañía de Danza — App de administración
+
+Aplicación de laboratorio para administrar integrantes, bailes, presentaciones, cuadros, observaciones e inventario. El sistema fue desarrollado con HTML, CSS y JavaScript puro, y se conecta a una base de datos Postgres en Supabase mediante una función RPC para ejecutar consultas SQL.
+
+### Tecnologías utilizadas
+
+- **Frontend:** HTML, CSS y JavaScript vanilla
+- **Base de datos:** PostgreSQL
+- **Backend / servicio:** Supabase (RPC `exec_sql`)
+- **Despliegue:** Vercel
+
+### Funcionalidades principales
+
+- Inicio de sesión y manejo de sesión
+- Administración de integrantes
+- Administración de bailes
+- Administración de participaciones
+- Administración de presentaciones
+- Administración de cuadros
+- Registro de observaciones
+- Control de inventario
+- Registro de acciones en `audit_log`
+
+### Credenciales de prueba
+
+- **Usuario:** `admin@compania.pe`
+- **Contraseña:** `Password123!`
+
+<details>
+<summary>🟩 Ver capturas de pantalla</summary>
+
+| Captura 1 | Captura 2 | Captura 3 |
+|---|---|---|
+| <img loading="lazy" src="./capturas/captura01.png" width="250"/> | <img loading="lazy" src="./capturas/captura02.png" width="250"/> | <img loading="lazy" src="./capturas/captura03.png" width="250"/> |
+
+| Captura 4 | Captura 5 | Captura 6 |
+|---|---|---|
+| <img loading="lazy" src="./capturas/captura04.png" width="250"/> | <img loading="lazy" src="./capturas/captura05.png" width="250"/> | <img loading="lazy" src="./capturas/captura06.png" width="250"/> |
+
+| Captura 7 | Captura 8 | Captura 9 |
+|---|---|---|
+| <img loading="lazy" src="./capturas/captura07.png" width="250"/> | <img loading="lazy" src="./capturas/captura08.png" width="250"/> | <img loading="lazy" src="./capturas/captura09.png" width="250"/> |
+
+| Captura 10 | Captura 11 | Captura 12 |
+|---|---|---|
+| <img loading="lazy" src="./capturas/captura10.png" width="250"/> | <img loading="lazy" src="./capturas/captura11.png" width="250"/> | <img loading="lazy" src="./capturas/captura12.png" width="250"/> |
+
+| Captura 13 | Captura 14 | Captura 15 |
+|---|---|---|
+| <img loading="lazy" src="./capturas/captura13.png" width="250"/> | <img loading="lazy" src="./capturas/captura14.png" width="250"/> | <img loading="lazy" src="./capturas/captura15.png" width="250"/> |
+
+| Captura 16 | Captura 17 |  |
+|---|---|---|
+| <img loading="lazy" src="./capturas/captura16.png" width="250"/> | <img loading="lazy" src="./capturas/captura17.png" width="250"/> |  |
+
+</details>
+
+### Enlaces
+
+- **Código Fuente:** [Repositorio en GitHub](https://github.com/avril1699/Grupo-Jaltepec-BD/tree/4e0f75d7a63f13784b874eaa521d3e8103a8dce5/Downloads/danza-app)
+- **Demo en Vivo (Vercel):** [Ver proyecto](https://grupo-jaltepec-bd.vercel.app/)
